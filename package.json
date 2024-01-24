@@ -1,0 +1,17 @@
+{
+  "name": "@artem-kelioghlo/test-npm-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc",
+    "start": "rsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
